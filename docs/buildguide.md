@@ -172,6 +172,12 @@ You don't need to solder a JST jack, but it makes it easier to connect and disco
 
 If you plan to use a JST jack you also need to bridge the jumpers on the top, next to the JST jack.
 
+Keep in mind, that the polarity of the JST connectors on the KLOTZ (which is from left to right: negative, positive)
+is inverted to the standard JST jack configuration (which is from left to right: positive, negative).
+
+Should you intend to keep the default JST jack configuration, bridge the jumpers on the respective bottom of each plate
+instead of the ones on the top.
+
 ![JST bridge](/docs/images/buildguide/JST_bridge.jpg)
 
 
